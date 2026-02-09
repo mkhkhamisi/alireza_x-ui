@@ -42,6 +42,10 @@
 bash <(curl -Ls https://raw.githubusercontent.com/alireza0/x-ui/master/install.sh)
 ```
 
+```
+**Step 1:** To install an old version, use following installation command. e.g., version `1.8.0`:
+```
+
 ## Install Legacy Version
 
 **Step 1:** To install an old version, use following installation command. e.g., version `1.8.0`:
